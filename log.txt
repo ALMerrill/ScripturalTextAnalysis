@@ -1,0 +1,13 @@
+Time log
+
+Together
+- 3/21 1 hour. Met with Dr. Wingate, decided on scriptural text analysis, drew out plan.
+- 4/12 2 hours. Started EM design and worked on word2vec vectors
+
+Andrew
+- 3/21 .5 hours. Looked for files to read in verses from Bible, got github set up with starting files to read text in.
+- 4/7 1.5 hours. Got bible into dictionary format. Worked on cleaning up verses (removing punctuation, html tags, and pronouns. We
+        need to decide which pronouns to keep, it may be hard to get that part perfect.
+- 4/12 1 hour. Worked more on getting the word2vec model to work. Tried wikipedia plus old english texts. Still missing a lot of words.
+- 4/14 2 hours. Got BoM text into dictionary format. 
+- 4/18 .5 hours. Worked on fitting all words in the model. 
